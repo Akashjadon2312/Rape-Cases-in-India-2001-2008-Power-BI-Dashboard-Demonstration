@@ -1,0 +1,2 @@
+# Rape-Cases-in-India-2001-2008-Power-BI-Dashboard-Demonstration
+This repository features a video walkthrough of a Power BI dashboard built using crime statistics related to rape victims in India from 2001 to 2008. The dashboard presents a visual exploration of state-wise and year-wise trends, enabling better understanding and awareness of the data through interactive elements and insightful visuals.
